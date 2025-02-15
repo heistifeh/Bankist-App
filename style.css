@@ -94,11 +94,7 @@ nav {
   gap: 2rem;
 
   /* NOTE This creates the fade in/out anumation */
-<<<<<<< HEAD
   opacity: 0;
-=======
-  /* opacity: 0; */
->>>>>>> 188566f (savings feature)
   transition: all 1s;
 }
 
@@ -218,9 +214,6 @@ nav {
 }
 
 .operation--transfer {
-<<<<<<< HEAD
-  background-image: linear-gradient(to top left, #ffb003, #ffcb03);
-=======
   background-image: linear-gradient(to top left, rgb(142, 131, 106), #ffcb03);
 }
 .operation--save {
@@ -229,7 +222,6 @@ nav {
     rgb(101, 116, 117),
     rgb(43, 216, 229)
   );
->>>>>>> 188566f (savings feature)
 }
 
 .operation--loan {
@@ -310,13 +302,11 @@ h2 {
 .timer {
   font-weight: 600;
 }
-<<<<<<< HEAD
-=======
 
 .btn--check-savings {
   background-image: linear-gradient(to top left, rgb(142, 131, 106), #ffcb03);
   width: 200px;
-  height: 50px;
+  height: 49px;
   /* color: #fff; */
   font-size: 1.5rem;
   font-weight: bolder;
@@ -327,4 +317,3 @@ h2 {
   opacity: 0;
   transition: all 1s;
 }
->>>>>>> 188566f (savings feature)
